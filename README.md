@@ -1,1 +1,2 @@
-DigitalBank
+Digital Bank
+Pythod Django project
